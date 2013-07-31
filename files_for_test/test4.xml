@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!DOCTYPE persons SYSTEM "pers.dtd">
+<persons>
+  <person>
+    <name>Дядя Федор</name>
+	<address>Простоквашино</address>
+	<notation>очень самостоятельный городской мальчик</notation>
+  </person>
+  <person>
+    <name>кот Матроскин</name>
+	<address>Простоквашино</address>
+	<notation>умеет вышывать на машинке</notation>
+  </person>
+  <person>
+    <name>пес Шарик</name>
+	<address>Простоквашино</address>
+	<notation>рисует фигвамы на печах</notation>
+  </person>  
+</persons>

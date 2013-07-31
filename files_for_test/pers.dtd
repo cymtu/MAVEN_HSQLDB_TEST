@@ -1,0 +1,5 @@
+<!ELEMENT persons (person)*>
+<!ELEMENT person (name,address,notation)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT notation (#PCDATA)>
